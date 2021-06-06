@@ -1,0 +1,11 @@
+body {
+        margin:0px;
+        padding: 0px;
+        font-family: sans-serif;
+        /* background-image: url('./vote_gif.gif') ; */
+        background-image: url('./88858724-vote-button-icon.jpg') ;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        /* background-position: center; */
+        background-size: cover;
+}
